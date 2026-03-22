@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "蕾",
+  "base_artist": "GReeeeN",
+  "createdAt": "2026-03-22T06:00:50.812813Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "蕾",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/01_蕾_GReeeeN.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "蕾(つぼみ)",
+      "artist": "Kobukuro",
+      "has_synced": true,
+      "path": "select/02_蕾(つぼみ)_Kobukuro.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "蕾",
+      "artist": "コブクロ",
+      "has_synced": true,
+      "path": "select/03_蕾_コブクロ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "蕾 feat.こぴ",
+      "artist": "Kobasolo feat. こぴ",
+      "has_synced": true,
+      "path": "select/04_蕾_feat.こぴ_Kobasolo_feat._こぴ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "蕾",
+      "artist": "Omoinotake",
+      "has_synced": true,
+      "path": "select/05_蕾_Omoinotake.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "蕾(つぼみ) - Tsubomi",
+      "artist": "KOBUKURO",
+      "has_synced": true,
+      "path": "select/06_蕾(つぼみ)_-_Tsubomi_KOBUKURO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "蕾(つぼみ)",
+      "artist": "KOBUKURO",
+      "has_synced": true,
+      "path": "select/07_蕾(つぼみ)_KOBUKURO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "蕾 feat.こぴ",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/08_蕾_feat.こぴ_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "蕾 (Instrumental)",
+      "artist": "Omoinotake",
+      "has_synced": true,
+      "path": "select/09_蕾_(Instrumental)_Omoinotake.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "蕾 (つぼみ)",
+      "artist": "コブクロ",
+      "has_synced": true,
+      "path": "select/10_蕾_(つぼみ)_コブクロ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "蕾 - Tsubomi",
+      "artist": "Omoinotake",
+      "has_synced": true,
+      "path": "select/11_蕾_-_Tsubomi_Omoinotake.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "蕾",
+      "artist": "大橋純子",
+      "has_synced": true,
+      "path": "select/12_蕾_大橋純子.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "蕾",
+      "artist": "Chris Hart",
+      "has_synced": true,
+      "path": "select/13_蕾_Chris_Hart.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "蕾",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/14_蕾_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "蕾(つぼみ)",
+      "artist": "KOBUKURO",
+      "has_synced": true,
+      "path": "select/15_蕾(つぼみ)_KOBUKURO.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "蕾",
+      "artist": "コブクロ",
+      "has_synced": true,
+      "path": "select/16_蕾_コブクロ.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "蕾(Instrumental)",
+      "artist": "コブクロ",
+      "has_synced": true,
+      "path": "select/17_蕾(Instrumental)_コブクロ.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "蕾",
+      "artist": "Omoinotake",
+      "has_synced": true,
+      "path": "select/18_蕾_Omoinotake.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "蕾",
+      "artist": "Omoinotake",
+      "has_synced": false,
+      "path": "select/19_蕾_Omoinotake.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "蕾",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/pl_01_蕾_GReeeeN.txt"
+    }
+  ]
+}
